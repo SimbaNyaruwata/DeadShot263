@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simba Keith Nyaruwata
 - 👀 I’m interested in API's
-- 🌱 I’m currently learning Python. 
-- ☯️ Currently working on Car Park Management System using Wireless Sensor Networks. 
+- 🌱 I’m currently learning C#. 
+- ☯️ Currently working on Driving School Web App using ASP.NET and React.JS. 
 - 📫 How to contact me:
        Email: simbakeith@outlook.com
        Contact: +263 784 321 913
